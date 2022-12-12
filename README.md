@@ -14,7 +14,7 @@
 ![image](https://user-images.githubusercontent.com/83776308/206990693-158b6ce9-3ea7-44f1-97f4-dfcd2d6baff6.png)
 #### Clone this project. Folder structure would look similar to this except .env .
 ![image](https://user-images.githubusercontent.com/83776308/206990813-4e0b5364-d533-4c8a-a206-22b2b2e541d2.png)
-#### Create a .env like the env.example and open that and put your new password there and link it you main file 
+#### Create a .env like the env.example and open that and put your new password there 
 ![image](https://user-images.githubusercontent.com/83776308/206991139-0335eef5-9d6a-4a0f-b55c-4fafe39f9110.png)
 #### do changes in main file as required 
 ![image](https://user-images.githubusercontent.com/83776308/206991325-67fdf51a-d60e-4def-a5f5-90af05ea88a1.png)
