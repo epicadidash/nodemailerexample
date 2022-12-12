@@ -1,5 +1,5 @@
 # How to send email with gamil using nodemail 
-## Many of us are struggling wit automatically sending email after gmail removed less ap feature back in May 30 . Follow Steps Below
+## Many of us are struggling wit automatically sending email after gmail removed less secure  app feature back in May 30 . Follow Steps Below
 #### First you need to create a gmail account or use your existing email
 #### Go to your account settings like this 
 #### Switch on your [2FA](https://myaccount.google.com/signinoptions/two-step-verification)
